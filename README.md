@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kavita
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking for a Job as ReactJS Developer
+- 👀 I’m interested in Development and Designing
+- 🌱 I’m currently working on ReactJS
+- 💞️ I’m looking for a Job as Full Stack Developer
 - 📫 How to reach me ...   Mail: kavitasisodiya1999@gmail.com
